@@ -1,3 +1,5 @@
+<img width="589" height="918" alt="Screenshot 2025-08-13 104851" src="https://github.com/user-attachments/assets/28fd949f-3617-45be-a70a-a4fd300a271c" />
+<img width="1909" height="909" alt="Screenshot 2025-08-13 104651" src="https://github.com/user-attachments/assets/6d83ec8a-6f4c-46c3-8ee5-b07b384405a2" />
 # Mobile Shop Management System
 
 ## Overview
